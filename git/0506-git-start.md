@@ -34,10 +34,12 @@ git commit->
 commit 메시지를 작성or  git commit -m "커밋메시지"
 
 커밋메세지 말머리에 맞게 작성 
-Feat
-Docs
-Test
-Refactor 
+feat: 새로운 기능 추가
+docs : 문서수정
+test : 테스트코드, 리팩토링 테스트 코드 추가
+refactor : 코드 리팩토링
+fix : 버그 수정
+
 
 Git status계속 확인 ~ 
 remote repository 에 추가
