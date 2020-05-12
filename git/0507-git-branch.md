@@ -54,7 +54,7 @@ git clone 내 포크 주소 -> origin
 -> 폴더 들어가서
 git remote add pmorigin  (팀장의 주소) -> pmorigin
 
-디벨롭 만들어놓고!
+develop branch 위에서!!!
 
 git pull pmorigin develop or master
 
@@ -71,4 +71,11 @@ but!
 git push하고 확인
 resitory -> develop ->
 pullrequest ->  create pullrequest-> solved # 이슈넘버
+
+
+팀장 :
+develop 취합 완료-> pull origin develop
+git checkout master
+git merge devleop
+푸쉬!
 
